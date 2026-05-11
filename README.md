@@ -99,11 +99,13 @@ Modern portfolio website showcasing full-stack projects and technical skills wit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harleywill&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=00ff00&icon_color=00ff00)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harleywill&show_icons=true&theme=dark&card_width=500)](https://github.com/Harleywill)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harleywill&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=00ff00)](https://github.com/Harleywill)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harleywill&layout=compact&theme=dark)](https://github.com/Harleywill)
 
 </div>
+
+**2,160+ contributions in 2026** | Active developer focusing on full-stack projects
 
 ---
 
