@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' font-family="ConsolasFallback,Consolas,monospace" width="900px" height="490px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="900px" height="490px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f">
+<tspan x="15" y="30">harley@williams</tspan> -———————————————————————————————————————————————-—-
+<tspan x="15" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">macOS, Windows</tspan>
+<tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">23 years, 8 months, 26 days</tspan>
+<tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Home Lab (Self-Hosted VPS)</tspan>
+<tspan x="15" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Full-Stack Web Developer</tspan>
+<tspan x="15" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">VS Code, Claude Code</tspan>
+<tspan x="15" y="150" class="cc">. </tspan>
+<tspan x="15" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">TypeScript, JavaScript, Python, Node.js</tspan>
+<tspan x="15" y="190" class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">HTML, CSS, JSON, YAML, SQL</tspan>
+<tspan x="15" y="210" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English</tspan>
+<tspan x="15" y="230" class="cc">. </tspan>
+<tspan x="15" y="250" class="cc">. </tspan><tspan class="key">Hobbies.Music</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Playing guitar, music</tspan>
+<tspan x="15" y="270" class="cc">. </tspan><tspan class="key">Hobbies.Tech</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Self-hosting, home-lab tinkering</tspan>
+<tspan x="15" y="290" class="cc">. </tspan>
+<tspan x="15" y="310">- Contact</tspan> -———————————————————————————————————————————————-—-
+<tspan x="15" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">hjakewilliams@gmail.com</tspan>
+<tspan x="15" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">harley-williams</tspan>
+<tspan x="15" y="370" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">harleywilliams.co.uk</tspan>
+<tspan x="15" y="390" class="cc">. </tspan>
+<tspan x="15" y="410">- GitHub Stats</tspan> -———————————————————————————————————————————————-—-
+<tspan x="15" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">3,125</tspan>
+<tspan x="15" y="450" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">217,961</tspan> ( <tspan class="addColor">331,332</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">113,371</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
