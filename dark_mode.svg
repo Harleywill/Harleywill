@@ -31,6 +31,6 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="390" class="cc">. </tspan>
 <tspan x="15" y="410">- GitHub Stats</tspan> -———————————————————————————————————————————————-—-
 <tspan x="15" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">3,152</tspan>
-<tspan x="15" y="450" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">218,192</tspan> ( <tspan class="addColor">331,744</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">113,552</tspan><tspan class="delColor">--</tspan> )
+<tspan x="15" y="450" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">218,192</tspan> ( <tspan class="addColor">331,746</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">113,554</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
